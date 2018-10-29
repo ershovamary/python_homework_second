@@ -7,7 +7,7 @@
 ---|---|---
 **1**|Игра "Виселица"|*[HW1](https://github.com/ershovamary/python_homework_second/blob/master/HW1/HW1.ipynb)*
 **2**|GitHub Users|*[HW2](https://github.com/ershovamary/python_homework_second/blob/master/HW2/HW2.ipynb)*
-**3**|пока нет|*пока нет*
+**3**|Корпус газет|*[Project1](https://github.com/ershovamary/python_homework_second/tree/master/Project1)*
 ### Связь:
 1. [почта](ershovamary@gmail.com)
 2. [telegram](https://t.me/ershovamary)
