@@ -8,6 +8,8 @@
 **1**|Игра "Виселица"|*[HW1](https://github.com/ershovamary/python_homework_second/blob/master/HW1/HW1.ipynb)*
 **2**|GitHub Users|*[HW2](https://github.com/ershovamary/python_homework_second/blob/master/HW2/HW2.ipynb)*
 **3**|Корпус газет|*[Project1](https://github.com/ershovamary/python_homework_second/tree/master/Project1)*
+**4**|Сайт-анкета|*[Project2](https://github.com/ershovamary/python_homework_second/tree/master/Project2)*
+**5**|Поисковая система для корпуса|*[HW5](https://github.com/ershovamary/python_homework_second/tree/master/HW5)*
 ### Связь:
 1. [почта](ershovamary@gmail.com)
 2. [telegram](https://t.me/ershovamary)
