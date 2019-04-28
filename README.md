@@ -10,6 +10,7 @@
 **3**|Корпус газет|*[Project1](https://github.com/ershovamary/python_homework_second/tree/master/Project1)*
 **4**|Сайт-анкета|*[Project2](https://github.com/ershovamary/python_homework_second/tree/master/Project2)*
 **5**|Поисковая система для корпуса|*[HW5](https://github.com/ershovamary/python_homework_second/tree/master/HW5)*
+**6**|VK API|*[HW6_API](https://github.com/ershovamary/python_homework_second/tree/master/HW6_API)*
 ### Связь:
 1. [почта](ershovamary@gmail.com)
 2. [telegram](https://t.me/ershovamary)
