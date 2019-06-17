@@ -1,0 +1,4 @@
+Flask==0.12.1
+numpy==1.16.4
+pyTelegramBotAPI==3.6.6
+russtress==0.1.3
