@@ -1,6 +1,6 @@
 # Финальный проект: Маяковский каждый день
 ### Что
-Телеграм-бот **[@Mayakovsky_rhymes](https://web.telegram.org/@Mayakovsky_bot)** отвечает на сообщения пользователя "рифмующимися" цитатами из творчества В. В. Маяковского.
+Телеграм-бот **[@Mayakovsky_rhymes](https://web.telegram.org/#/im?p=@Mayakovsky_bot)** отвечает на сообщения пользователя "рифмующимися" цитатами из творчества В. В. Маяковского.
 Корпус стихотворений был создан на основе поэтического корпуса НКРЯ ([ссылка](http://search.ruscorpora.ru/search.xml?env=alpha&mode=poetic&sort=gr_created_&text=meta&doc_author=%c2.%20%c2.%20%cc%e0%ff%ea%ee%e2%f1%ea%e8%e9))
 ### Как
 Реплики "рифмуются" по ударным гласным с помощью библиотеки [russtress](https://pypi.org/project/russtress/).
