@@ -78,7 +78,7 @@ def get_rhyme(message):
 	while result is None:
 		stressed_vowels.pop(0)
 		result = find_rhyme(stressed_vowels)
-	find_source(result)
+	source = find_source(result)
 	regStress = re.compile("'", re.DOTALL)
 	result = regStress.sub('', result)
 	bot.send_message(message.chat.id, result + "\nИсточник:\n" + source)
