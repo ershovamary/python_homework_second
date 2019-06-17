@@ -12,6 +12,8 @@
 **5**|Поисковая система для корпуса|*[HW5](https://github.com/ershovamary/python_homework_second/tree/master/HW5)*
 **6**|VK API|*[HW6_API](https://github.com/ershovamary/python_homework_second/tree/master/HW6_API)*
 **add**|pymorphy2|*[Extra task](https://github.com/ershovamary/python_homework_second/tree/master/Extra_task)*
+**7**|word2vec|*[HW7](https://github.com/ershovamary/python_homework_second/tree/master/HW7)*
+**Final**|Final project|*[FinalProject](https://github.com/ershovamary/python_homework_second/tree/master/FinalProject)*
 ### Связь:
 1. [почта](ershovamary@gmail.com)
 2. [telegram](https://t.me/ershovamary)
